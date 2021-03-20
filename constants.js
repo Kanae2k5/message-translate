@@ -548,8 +548,8 @@ module.exports = {
 			nativeName: "română",
 		},
 		ru: {
-			name: "Russian",
-			nativeName: "русский язык",
+			name: "Russia",
+			nativeName: "russia",
 		},
 		sa: {
 			name: "Sanskrit (Saṁskṛta)",
@@ -863,7 +863,7 @@ module.exports = {
 				"xh",
 				"yi",
 				"yo",
-				"zu",
+				"zh",
 			],
 			ratelimit: 1000,
 		},
